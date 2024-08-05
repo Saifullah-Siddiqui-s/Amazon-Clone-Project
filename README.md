@@ -1,2 +1,2 @@
 # Amazon-Clone-Project
-Author - Saifullah Siddiqui
+Author - Saifullah
